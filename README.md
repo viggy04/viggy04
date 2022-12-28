@@ -1,24 +1,15 @@
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+### Hello World 👋
 
-## नमस्ते 🙏, I'm Viggy
-## Full Stack Developer 👨‍💻
+/*<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />*/
 
-[![](https://img.shields.io/badge/LinkedIn-ashrafkm-blue)](https://www.linkedin.com/in/vighnesh-salunkhee/)
-[![](https://img.shields.io/badge/Gmail-vighnesh.salunkhee%40gmail.com-red)](mailto:vighnesh.salunkhee@gmail.com)
+<img width="35%" align="right" alt="Github" src="<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />" />
 
+I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+- 🔭 I’m currently a CS student at Mansoura Unversity.
+- 📚 I’m currently learning  backend web development using NodeJS, ExpressJS and MongoDB.
+- 👯 I’m looking for a software development internship. 
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hazemessamsaleh) [Gmail](mailto:hazemkwita123@gmail.com)
 
-```javascript
-const viggy = {
-    pronouns: "He" | "Him",
-    askMeAbout: ["app dev", "web dev", "tech"],
-    technologies:{
-        backEnd: ["Nodejs", "Express", "Python", "Dot Net", "Blazor"],
-        fronEnd: ["angular"],
-        mobileApp: ["angular"],
-        database: ["mongoDB","MySql","Sql Server"],
-        cloud: ["GCP", "Azure"],
-    },
-    architecture: ["Serverless Architecture", "microservices", "event-driven", "Single page applications"],
-}
+⭐️ From [hazemessam](https://github.com/hazemessam)
+Inspired from [AbdelrahmanBayoumi](https://github.com/abdelrahmanbayoumi)
