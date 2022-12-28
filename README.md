@@ -11,4 +11,6 @@ I'm a computer science student who is passionate about writing code, solving pro
 - 👯 I’m looking for a software development opportunity. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/vighnesh-salunkhe) [Gmail](mailto:vighnesh.salunkhee@gmail.com)
 
-Inspired from [hazemessam](https://github.com/hazemessam)
+-Fun Fact :
+Jack of all trades master of none is always better than master of one !
+<!-- Inspired from [hazemessam](https://github.com/hazemessam) -->
